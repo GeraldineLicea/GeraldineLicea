@@ -8,14 +8,6 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/Geraldine Licea">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Geraldine%20Licea&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
 <p align="left">- Aprendiendo Python 💻<br>- Estudiando una Ingeniería 👷‍♀️<br>- Haciendo páginas por entretenimiento 💗</p>
 
 ###
@@ -30,9 +22,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GeraldineLicea/GeraldineLicea/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GeraldineLicea/GeraldineLicea/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GeraldineLicea/GeraldineLicea/output/pacman-contribution-graph.svg">
-</picture>
-
+  
 ###
 
 <div align="center">
